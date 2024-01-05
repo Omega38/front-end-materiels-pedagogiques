@@ -20,10 +20,10 @@
             objectif de Concevoir et réaliser une application pour la gestion des matériels pédagogiques.
             Les besoins des utilisateurs proposent donc tout particulièrement la possibilité de :
             <ul>
-                <li> Gérer les matériels </li>
-                <li> Gérer les emprunts</li>
                 <li> Gérer les emprunteurs</li>
                 <li> Gérer la salle</li>
+                <li> Gérer les matériels </li>
+                <li> Gérer les emprunts</li>
                 <li> Gérer la maintenance</li>
                 <li> Gérer la réparation</li>
             </ul>
